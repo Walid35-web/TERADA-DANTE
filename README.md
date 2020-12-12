@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Terada's github stats](https://github-readme-stats.vercel.app/api?username=TERADA-DANTE&show_icons=true&theme=react)](https://github.com/TERADA-DANTE/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TERADA-DANTE)](https://github.com/TERADA-DANTE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TERADA-DANTE&theme=react)](https://github.com/TERADA-DANTE/github-readme-stats)
