@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am frontend engineer Matsunaga also known as Terada
 
 <!--
 **TERADA-DANTE/TERADA-DANTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
