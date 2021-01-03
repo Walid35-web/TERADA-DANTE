@@ -1,0 +1,21 @@
+# Frontend
+
+- CRA 使っている？
+-  jQueryの目的
+- 重要なライブラリー
+- Component 管理どうやってしている？
+- state 管理はどうしている？
+- react - hook 使っている？
+- 
+# Backend
+
+- Nginx, apache選択理由
+-  /helpページとは？
+- DB 管理どうしている？
+- AMAZON S3 使ってる理由
+
+# Other
+- git convention
+- test serverの使用、ACCESS、BRANCH
+# Other than dev 
+- 有給
