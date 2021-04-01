@@ -1,25 +1,9 @@
-### Hi🔥 I am frontend engineer Matsunaga a.k.a Terada
+## Hi, I am matsunaga🌳
 
-<!--
-**TERADA-DANTE/TERADA-DANTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Terada's github stats](https://github-readme-stats.vercel.app/api?username=TERADA-DANTE&show_icons=true&theme=react&hide=stars)](https://github.com/TERADA-DANTE/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TERADA-DANTE&theme=react&layout=compact&hide=css,html&langs_count=8)](https://github.com/TERADA-DANTE/github-readme-stats)
 
-**Languages:**  
 
-<code><img style="display:inline" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img style="display:inline" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img style="display:inline" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+**Technologies:**  
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
