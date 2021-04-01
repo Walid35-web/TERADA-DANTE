@@ -10,7 +10,7 @@
 
 # Recent post
 
-<a href="https://dante.pw'" target="_blank">
+<a href="https://dante.pw" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Checkout%20my%20blog-dante.pw-green">
 </a>
 
