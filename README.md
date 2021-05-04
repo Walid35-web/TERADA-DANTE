@@ -20,3 +20,4 @@
 # Technologies
 
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Prisma" src="https://github.com/TERADA-DANTE/TERADA-DANTE/blob/main/assets/prisma.png?raw=true"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
