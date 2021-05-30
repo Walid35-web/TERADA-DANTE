@@ -2,7 +2,7 @@
 
 > My dream is bigger than `node_modules`
 
-**Matsunaga syun** — A dedicated full stack engineer at [リクルーティング・パートナーズ](https://3140pa.com) working on WebRTC, NextJS, Prisma.
+**Matsunaga syun** — A poor stack engineer at [リクルーティング・パートナーズ](https://3140pa.com) working on WebRTC, NextJS, Prisma.
 
 **Enthusiast of perfect web** - If interested, feel free to get in touch with me.
 
