@@ -14,8 +14,10 @@
     <img alt="Blog" src="https://img.shields.io/badge/Checkout%20my%20blog-dante.pw-green">
 </a>
 
-- [今の Web サイト８割はハッキングできる！](https://dante.pw/web-hacking-and-security/)
-- [RESTful API に関して](https://dante.pw/restful-api/)
+<a href="https://note.com/_terada" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Checkout%20my%20note-_terada-blue">
+</a>
+
 
 # Technologies
 
