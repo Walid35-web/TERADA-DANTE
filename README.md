@@ -2,7 +2,7 @@
 
 > My dream is bigger than `node_modules`
 
-**Matsunaga syun** — A fuxx stack engineer at [リクルーティング・パートナーズ](https://3140pa.com) working on WebRTC, NextJS, Prisma.
+**Matsunaga syun** — A beloved engineer at [リクルーティング・パートナーズ](https://3140pa.com).
 
 **Enthusiast of perfect web** - If interested, feel free to get in touch with me.
 
@@ -20,4 +20,5 @@
 
 # Technologies
 
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>  <img alt="Angular" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+
