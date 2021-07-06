@@ -2,11 +2,7 @@
 
 > My dream is bigger than `node_modules`
 
-**Matsunaga syun** — A beloved engineer at [リクルーティング・パートナーズ](https://3140pa.com).
-
-**Enthusiast of perfect web** - If interested, feel free to get in touch with me.
-
-**Free soul** - I am hoping for a challenge _by Genji from Overwatch_
+<img src="https://github.com/TERADA-DANTE/TERADA-DANTE/blob/main/profile.png?raw=true" alt="profile" >
 
 # Recent post
 
