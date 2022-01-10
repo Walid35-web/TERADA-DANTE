@@ -2,7 +2,7 @@
 
 > My dream is bigger than `node_modules`
 
-<img src="https://github.com/TERADA-DANTE/TERADA-DANTE/blob/main/profile.png?raw=true" alt="profile" >
+A poor stack engineer.
 
 # Recent post
 
